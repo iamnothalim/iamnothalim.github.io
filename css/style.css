@@ -1038,9 +1038,9 @@ body.offcanvas {
 .modal_image{
   width: 100%;
 }
-.modal_ul{
+/* .modal_ul{
   margin-top: -40px;
-}
+} */
 
 .btn-load-more {
   width: 100%; }
